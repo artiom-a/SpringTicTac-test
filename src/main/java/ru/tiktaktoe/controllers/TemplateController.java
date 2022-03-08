@@ -11,10 +11,6 @@ import ru.tiktaktoe.entity.ListedGameSimpleForm;
 import java.util.ArrayList;
 
 
-/**
- * Controller for the template-driven html frontend
- */
-
 @Controller
 public class TemplateController {
     @Autowired

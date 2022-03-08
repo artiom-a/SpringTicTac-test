@@ -1,8 +1,5 @@
 package ru.tiktaktoe.entity;
 
-/**
- * POJO class that forms a list of active games
- */
 public class ListedGameSimpleForm {
     private int id;
     private String player;

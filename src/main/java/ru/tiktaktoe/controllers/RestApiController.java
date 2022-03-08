@@ -7,9 +7,6 @@ import org.springframework.web.bind.annotation.*;
 import ru.tiktaktoe.entity.GameInstance;
 import ru.tiktaktoe.services.GamePlayCalc;
 
-/**
- * REST controller
- */
 
 @RestController
 public class RestApiController {

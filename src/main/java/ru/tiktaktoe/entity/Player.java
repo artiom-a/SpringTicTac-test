@@ -3,10 +3,6 @@ package ru.tiktaktoe.entity;
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 
-/**
- * Class for player instance
- */
-
 @Entity
 @Table(name = "players")
 public class Player {
